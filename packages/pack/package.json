@@ -55,9 +55,9 @@
         "svgo-loader": "^4.0.0",
         "swc-loader": "^0.2.6",
         "terser-webpack-plugin": "^5.3.10",
-        "webpack": "^5.97.1",
+        "webpack": "^5.104.1",
         "webpack-cli": "^5.1.4",
-        "webpack-dev-server": "^5.1.0",
+        "webpack-dev-server": "^5.2.3",
         "webpack-retry-chunk-load-plugin": "^3.1.1",
         "webpack-subresource-integrity": "^5.1.0"
     },
