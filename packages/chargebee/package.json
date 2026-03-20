@@ -21,7 +21,7 @@
         "jest": "^29.7.0",
         "postcss": "^8.4.49",
         "typescript": "^5.7.2",
-        "vite": "^5.4.11",
+        "vite": "^5.4.21",
         "vite-plugin-html": "^3.2.2",
         "vite-plugin-mkcert": "^1.17.6",
         "vite-plugin-singlefile": "^2.0.3"
